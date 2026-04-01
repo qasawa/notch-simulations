@@ -1,0 +1,12 @@
+[package]
+name = "notch-simulations"
+version = "0.1.0"
+edition = "2021"
+authors = ["Qais Alassa <qais@notch.finance>", "Osama Alashqar <osama@notch.finance>"]
+description = "Monte Carlo simulation suite for 'Calibration-Gated Reputation' (AFT 2026)"
+
+[dependencies]
+rand = "0.8"
+rand_chacha = "0.3"
+csv = "1.3"
+rayon = "1.10"

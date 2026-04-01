@@ -1,0 +1,3 @@
+scoring_rule,sybil_win_rate,sybil_mean_score,truthful_mean_score
+zero_one,0.014200,0.649584,0.726915
+brier,0.000000,0.652910,0.775918
